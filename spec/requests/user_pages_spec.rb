@@ -7,7 +7,7 @@ describe "UserPages" do
     before { visit 'signup' }
 
     it { should have_content('Sign up') }
-    it { should have_title(full_title('Sign up')) }
+    it { should have_title(full_title('Sign Up')) }
   end
 
 end
