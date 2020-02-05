@@ -9,7 +9,7 @@ class StaticPagesController < ApplicationController
 
   end
 
-  def contactus
+  def contact
 
   end
 end
